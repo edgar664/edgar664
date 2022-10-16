@@ -1,0 +1,15 @@
+*{
+    margin: 0s;
+}
+.container{
+    background-color: #f5deb3;
+    width: 100vw;
+    height: 1000vw;
+}
+
+#noBtn{
+    position: absolute;
+    /*top: 50%;
+    left: 0%;
+    transform: translate(0%,-5 0%);*/
+}
